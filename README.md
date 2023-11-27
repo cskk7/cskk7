@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/hashnode-white?logo=hashnode&logoColor=blue&color=white" alt="Hashnode Badge"/>
   </a>
 </div>
-
+<h1>
+  Hi Coders! Welcome to my GitHub
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
