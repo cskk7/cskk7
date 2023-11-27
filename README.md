@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://karthikesavan.hashnode.dev/">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/hashnode-white?logo=hashnode&logoColor=blue&color=white" alt="Hashnode Badge"/>
   </a>
 </div>
 
